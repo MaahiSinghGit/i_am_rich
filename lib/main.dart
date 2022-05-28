@@ -11,7 +11,7 @@ void main() => runApp(
           body:
           Center(
             child: Image(
-              image: AssetImage('images/manoj.jpeg'),
+              image: AssetImage('images/diamond.png'),
             ),
           ),
         ),
